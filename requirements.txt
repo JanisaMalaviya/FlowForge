@@ -1,0 +1,9 @@
+numpy
+trimesh
+scikit-learn
+pandas
+scipy
+rtree
+pyvista
+qtpy
+pyqt5
